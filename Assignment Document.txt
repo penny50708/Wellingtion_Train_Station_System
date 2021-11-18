@@ -1,0 +1,30 @@
+Assignment Report
+
+*Load Train Station and Train Line information from the data files into data structures.
+*Add ECS100.
+*Have a graphical user interface in ECS100 (buttons, input fields)
+
+
+***************************
+*List all the stations in the region(Easy format and the sort is alphabetical from A to Z.) 
+
+*List all the train lines in the region(Easy format and the sort is alphabetical from A to Z.) 
+
+*List the train lines that go through a given station .
+
+*List the stations along a given train line.
+
+***************************
+*Printed the name of a train line that goes from a station to a destination station
+
+*Train Service information has been loaded and used within appropriate Java Collections from the JC
+*Found the next train service for each line at a station immediately after a user specified time.
+
+*Found the trip between two given stations (on the same line), immediately after a user specified time. 
+*Determined the train line, the time that next service on that line will leave the first station, the time that the service will arrive at the destination station, and the number of fare zones the trip goes through.
+
+*Load the system map and geographic map to the interface.
+*Tested the project until there were no major runtime errors and added useful notices for user friendly.
+
+
+
