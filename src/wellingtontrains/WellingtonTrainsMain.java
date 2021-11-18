@@ -64,7 +64,7 @@ class WellingtonTrainsMain {
 		for (Object key : arr) {
 			UI.println(key + ":" + "\t\t" + listStations.get(key));
 			UI.println();
-
+			UI.drawImage("system-map.png", 0, 0, 500, 620);
 		}
 
 	}
@@ -93,6 +93,7 @@ class WellingtonTrainsMain {
 		for (Object key : arr) {
 			UI.println(key + ":" + "\t\t" + trainLines.get(key));
 			UI.println();
+			UI.drawImage("system-map.png", 0, 0, 500, 620);
 		}
 	}
 
